@@ -1,1 +1,2 @@
-# percentage-depth-dose-DOSRZnrc
+# Percentage Depth Dose Claculation (DOSRZnrc)
+Example input files of PDD calculation
